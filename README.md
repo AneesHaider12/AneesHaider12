@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Anees Haider
-**A passionate AI Engineer || Django/FastApi || Langchain **
+A passionate AI Engineer || Django/FastApi || Langchain
 
 Email Me 👉 ✉️ **aneeshaider923@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
